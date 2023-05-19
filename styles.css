@@ -9,3 +9,8 @@ h1 {
 div.image {
     text-align: center;
 }
+
+img {
+    height: auto;
+    width: 500px;
+}
